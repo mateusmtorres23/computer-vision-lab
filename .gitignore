@@ -12,3 +12,6 @@ wheels/
 
 # VS Code settings
 .vscode/
+
+# Session files
+.sesskey
